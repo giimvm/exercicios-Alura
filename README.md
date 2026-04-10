@@ -8,17 +8,21 @@ Praticar conceitos de programação, lógica e Programação Orientada a Objetos
 
 ## 📂 Estrutura
 
-- 📁 projeto-js → projeto "Jogo do Número Secreto" para praticar JavaScript
+- 📁 Jogo-do-Numero-Secreto -> Projeto em JavaScript com foco em treinar lógica de programação
 
-- 📁 projetos-python
-  - 📁 projeto1 → primeiros exercícios com Python
-  - 📁 projeto2 → projeto "Sabor Express" com foco em POO
+- 📁 cadastro-de-restaurantes -> Primeiro projeto em Python
+
+- 📁 projeto-python/oo-sabor-express → projeto "Sabor Express" com foco em POO
+
+- 📁 cardapio-fastapi → API desenvolvida com FastAPI para consultar cardápios de restaurantes.
 
 ## 🛠 Tecnologias
 
 - Python
 - JavaScript
 - Git e GitHub
+- FastAPI
+- Requests
 
 ## 📌 Observações
 
